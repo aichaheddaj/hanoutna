@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "titre": "Hp Victus",
+        "prix": "3500 DH",
+        "image": "1.jpeg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, et."
+    },
+
+    {
+        "id": 2,
+        "titre": "Lenovo Ideapad 3",
+        "prix": "6500 DH",
+        "image": "2.jpeg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, et."
+    },
+
+    {
+        "id": 3,
+        "titre": "Hp Elitbook x360",
+        "prix": "3300 DH",
+        "image": "3.webp",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, et."
+    },
+
+    {
+        "id": 4,
+        "titre": "Hp Victus",
+        "prix": "3500 DH",
+        "image": "1.jpeg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, et."
+    },
+
+    {
+        "id": 5,
+        "titre": "Lenovo Ideapad 3",
+        "prix": "6500 DH",
+        "image": "2.jpeg",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, et."
+    },
+
+    {
+        "id": 6,
+        "titre": "Hp Elitbook x360",
+        "prix": "3300 DH",
+        "image": "3.webp",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae, et."
+    }
+]
